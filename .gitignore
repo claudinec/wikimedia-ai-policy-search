@@ -1,0 +1,25 @@
+# Local-only collection output and unsanitised drafts (prefer policy-index-local/ beside this repo).
+/cache/
+/runs/
+/reports/drafts/
+/drafts/
+/raw/
+/evidence/raw/
+
+# Credentials and local configuration.
+.env
+.env.*
+*.env
+*.key
+*.pem
+
+# Python and editor byproducts.
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+.DS_Store
+*.swp
+.ipynb_checkpoints/
