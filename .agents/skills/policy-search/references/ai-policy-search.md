@@ -1,0 +1,25 @@
+# AI policy search recipe
+
+Apply [the cross-project method](policy-search.md) and [evidence/reporting contract](evidence-and-change-reporting.md) to rules about AI and large language models on Wikimedia wikis. This recipe is not a finding about any current wiki page. The [September 2026 search requests](../../../../prompts/find-index-omissions.md) are historical prompts, not an accepted inventory, current query set or proof of completeness.
+
+## Scope and catalogue
+
+- Enumerate all live Wikipedia language editions **and** the live non-Wikipedia Wikimedia families and special projects in the run's approved scope. Record any exception and family-by-family coverage. Do not assume every site has the same projectspace namespace ID or adopted-policy conventions.
+- Fetch the current [Meta-Wiki AI policies-by-project catalogue](https://meta.wikimedia.org/wiki/Artificial_intelligence/Policies_by_project) for comparison. Record retrieval time and revision. Inspect its Wikipedia, other-project, talk-page, images/media and WikiProject areas separately rather than treating a mention anywhere as an adopted local rule. The local page and its relevant section remain the status authority; Meta catalogue membership is a **separate** comparison, not an exclusion from the inventory.
+- The primary report section covers **adopted policies and guidelines with an operative AI-specific provision**, including a section of a general policy. Keep separately labelled sections for non-binding guidance and for proposals/drafts under discussion; never upgrade them to adopted status because the title or catalogue mentions them. An optional watchlist is not an adopted-rules list.
+
+## Discovery vocabulary and routes
+
+Start with `AI`, `LLM`, `ChatGPT`, `generative AI`, `large language model` and `machine learning`, and record locally appropriate translations, spellings, acronyms and names of generative tools. Cross-check local policy/guideline indexes, relevant categories, backlinks and interlanguage/sitelink leads. Also search rule contexts in local languages: AI-generated text and sourcing, fabricated citations, synthetic images/audio/video, disclosure, AI-assisted translation, deletion criteria, talk-page/agent conduct and automated contributions. For Wikisource, consider machine translation and OCR as additional discovery routes; record whether each was actually searched. A local adopted rule may use its own terminology rather than the English abbreviation. Record the exact terms and routes actually searched per site; do not claim every concept was checked when it was not.
+
+## Decide whether a candidate qualifies
+
+For **each** candidate, inspect the current local page, its status evidence and the precise operative section in the original language. Distinguish rules governing generated article content, synthetic media, translation, source reliability, disclosure, talk-page participation and agent/bot behaviour; one page may have several distinct provisions. List the parent rule with the relevant section anchor. Retain the original wording and link; translations are review aids and uncertain readings belong in the review queue. If status or translation is unclear, do not assert adoption.
+
+Exclude from the *adopted-rule section*: information pages describing AI generally; essays; policy think tanks; unadopted, withdrawn or failed proposals; discussion/archives and deletion discussions; WikiProjects; user pages, templates and categories; copied policy passages on an unrelated page; generic rules with only an incidental AI example or link. A proposal about AI agents may be worth a separate proposal note, but its existence is not evidence of a binding AI-agent policy. A page formally superseded or repealed is a status-change event, not a current adopted rule.
+
+Compare each verified parent page **and exact relevant section** against the current Meta catalogue, resolving redirects and moved titles. A catalogue entry for a different topic, another page, another project or a different section does not close a gap. Conversely, do not re-list the same rule as a new omission just because it was found by a different route. A catalogue edit is not a local policy change, and discovering an old unlisted rule is not new adoption.
+
+## Monthly working note
+
+Report adopted-rule changes, catalogue gaps, non-binding guidance and proposals in distinct sections, with source/revision links and dates. Explicitly label unchanged findings, moves and newly discovered old rules rather than inflating the material-change count. Report all families' attempted/completed/partial coverage and errors. “No verified material changes” means no such changes were found **within the stated completed coverage**; it is not a claim that there were no catalogue, guidance or proposal developments. A materially incomplete scan cannot support an unqualified “No changes found” message or advance a complete baseline. A project member checks the report before placing a sanitized version in a public branch/PR; no automatic wiki edit or communication follows from a candidate result.

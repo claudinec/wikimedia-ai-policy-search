@@ -1,8 +1,6 @@
-# Local-only collection output and unsanitised drafts (prefer policy-index-local/ beside this repo).
+# Disposable local collection output.
 /cache/
 /runs/
-/reports/drafts/
-/drafts/
 /raw/
 /evidence/raw/
 
