@@ -11,3 +11,9 @@ This project will hold public-safe methods and dated discrepancy reports that he
 - Do not edit any of the following files:
   - README.md
   - CONTRIBUTING.md
+
+## Python environment (Hermes and Codex)
+
+- The committed `.python-version` selects the project Python version. From this worktree, create the ignored local environment with `pyenv exec python -m venv .venv` if it does not exist. If `.python-version` changes, recreate the venv before using it.
+- Run project Python commands through `.venv/bin/python` (for example, `.venv/bin/python -m unittest` or `.venv/bin/python script.py`), not bare `python` or `python3`. Hermes and Codex must use the same worktree's `.venv/bin/python`; each separate worktree needs its own venv.
+- Check `.venv/bin/python -c 'import sys; print(sys.executable, sys.version)'` when verifying interpreter selection. Install project dependencies into this venv when a dependency manifest exists; do not assume either agent's own runtime packages are project dependencies. Hermes itself and the Codex CLI remain in their existing installations.
