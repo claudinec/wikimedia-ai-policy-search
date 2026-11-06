@@ -12,6 +12,11 @@ This project will hold public-safe methods and dated discrepancy reports that he
   - README.md
   - CONTRIBUTING.md
 
+## Wikimedia API requests from Codex
+
+- Send `User-Agent: ai-policy-search/<tool_version> (<operator_contact>) Codex/<codex_version>` on Wikimedia API requests. Use the value of `WIKIMEDIA_OPERATOR_CONTACT` for `<operator_contact>` and verify the tool and Codex versions before the run.
+- If `WIKIMEDIA_OPERATOR_CONTACT` is missing, blank, or contains a line break, stop before making API requests and ask the operator to configure it. Do not fall back to another operator’s identity or send literal placeholders.
+
 ## Python environment (Hermes and Codex)
 
 - The committed `.python-version` selects the project Python version. From this worktree, create the ignored local environment with `pyenv exec python -m venv .venv` if it does not exist. If `.python-version` changes, recreate the venv before using it.
