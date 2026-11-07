@@ -1,4 +1,4 @@
-# Wikimedia AI policy index -- working notes
+# Wikimedia AI policy index – Working notes
 
 This repository is used by members of various Wikimedia AI Cleanup projects to maintain the [global index of AI policies](https://meta.wikimedia.org/wiki/Artificial_intelligence/Policies_by_project).
 
