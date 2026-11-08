@@ -14,7 +14,7 @@ Automated requests to Wikimedia sites or APIs must have a valid User-Agent strin
 
 AI agents may be used to search Wikimedia projects for policies and discussions that have not been listed in the index [or added to Wikidata]. Searches were conducted using the following tools:
 
-| Date           | Harness | Model       | Sources                                               | Prompts/Instructions                                     |
-|----------------|---------|-------------|-------------------------------------------------------|----------------------------------------------------------|
-| September 2026 | Hermes  | GPT-5.6 Sol | [Kagi](https://kagi.com/api/) (search and extraction) | [find-index-omissions](/prompts/find-index-omissions.md) |
-| November 2026  | Codex   | GPT-6.1 Sol | Wikimedia                                             | [policy-search](/.agents/skills/policy-search/)          |
+| Date                                                                                 | Harness                                          | Model       | Sources                                               | Prompts/Instructions                                     |
+|--------------------------------------------------------------------------------------|--------------------------------------------------|-------------|-------------------------------------------------------|----------------------------------------------------------|
+| [September 2026](https://gist.github.com/claudinec/c88df78b8b00c775625ce1920a5459ae) | [Hermes](https://hermes-agent.nousresearch.com/) | GPT-5.6 Sol | [Kagi](https://kagi.com/api/) (search and extraction) | [find-index-omissions](/prompts/find-index-omissions.md) |
+| [November 2026](/reports/2026-11-03-ai-policy-index-pilot.md)                        | [Codex](https://openai.com/codex/)               | GPT-6.1 Sol | Wikimedia                                             | [policy-search](/.agents/skills/policy-search/)          |
