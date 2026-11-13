@@ -29,6 +29,8 @@ Original wording: “uten at teksten er tilstrekkelig bearbeidet”.
 
 Wikidata: Already linked on [Q119702818](https://www.wikidata.org/wiki/Q119702818); retain the existing sitelink.
 
+➕ [Added to index](https://meta.wikimedia.org/w/index.php?diff=31278082)
+
 ### Wikipedia:即時削除の方針
 
 [Wikipedia:即時削除の方針](https://ja.wikipedia.org/wiki/Wikipedia:%E5%8D%B3%E6%99%82%E5%89%8A%E9%99%A4%E3%81%AE%E6%96%B9%E9%87%9D#G11) · [revision 111557197](https://ja.wikipedia.org/w/index.php?oldid=111557197#G11) · **newly observed**.
@@ -40,6 +42,8 @@ Status evidence: [`{{Policy}}`](https://ja.wikipedia.org/wiki/Template:Policy) a
 Original wording: “等の出力が確認されないまま投稿されたことが明白なもの”.
 
 Wikidata: The parent policy is already linked on [Q4664109](https://www.wikidata.org/wiki/Q4664109). Point the Meta entry to G11; do not add a duplicate parent-page sitelink.
+
+➕ [Added to index](https://meta.wikimedia.org/w/index.php?diff=31278082)
 
 ### Wikipédia:Inteligência artificial
 
@@ -55,6 +59,8 @@ Original wording: “com suas próprias palavras”.
 
 Wikidata: Already linked on [Q119702818](https://www.wikidata.org/wiki/Q119702818); retain the existing sitelink.
 
+➕ [Added to index](https://meta.wikimedia.org/w/index.php?diff=31278082)
+
 ### Wikipedia:使用大型语言模型撰写条目（最低共识）
 
 [Wikipedia:使用大型语言模型撰写条目（最低共识）](https://zh.wikipedia.org/wiki/Wikipedia:%E4%BD%BF%E7%94%A8%E5%A4%A7%E5%9E%8B%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%92%B0%E5%86%99%E6%9D%A1%E7%9B%AE%EF%BC%88%E6%9C%80%E4%BD%8E%E5%85%B1%E8%AF%86%EF%BC%89) · [revision 95172065](https://zh.wikipedia.org/w/index.php?oldid=95172065) · **continuing**.
@@ -68,6 +74,8 @@ Original wording: “使用大语言模型编写或翻修条目通常不被接�
 [distinct, currently indexed draft](https://zh.wikipedia.org/w/index.php?oldid=94845095)
 
 Wikidata: [Q137217991](https://www.wikidata.org/wiki/Q137217991) already has a Chinese Wikipedia sitelink to the broader draft. Review which page belongs on that item or whether a separate item is appropriate; the guideline cannot be added as a second sitelink for the same wiki.
+
+➕ [Added to index](https://meta.wikimedia.org/w/index.php?diff=31278082)
 
 ## Proposals and drafts
 
@@ -83,6 +91,8 @@ Original wording: “لكتابة المقالات أو التعليقات من 
 
 Wikidata: Already linked on [Q119702818](https://www.wikidata.org/wiki/Q119702818); retain the existing sitelink.
 
+➕ [Added to index](https://meta.wikimedia.org/w/index.php?diff=31278082)
+
 ### Wikipédia:Mesterséges intelligencia használata
 
 [Wikipédia:Mesterséges intelligencia használata](https://hu.wikipedia.org/wiki/Wikip%C3%A9dia:Mesters%C3%A9ges_intelligencia_haszn%C3%A1lata) · [revision 29460170](https://hu.wikipedia.org/w/index.php?oldid=29460170) · **newly observed**.
@@ -97,6 +107,8 @@ Original wording: “Ez egy irányelv-javaslat”.
 
 Wikidata: No corresponding item confirmed by the page properties and exact-title item search. Leave item selection for review.
 
+➕ [Added to index](https://meta.wikimedia.org/w/index.php?diff=31278082) as policy (formalised [11 November](https://hu.wikipedia.org/w/index.php?title=Wikip%C3%A9dia:Mesters%C3%A9ges_intelligencia_haszn%C3%A1lata&diff=prev&oldid=29484403))
+
 ### Wikiquote:Artificial intelligence
 
 [Wikiquote:Artificial intelligence](https://en.wikiquote.org/wiki/Wikiquote:Artificial_intelligence#Text_generation) · [revision 4036998](https://en.wikiquote.org/w/index.php?oldid=4036998#Text_generation) · **continuing**.
@@ -108,6 +120,8 @@ Status evidence: [`{{policydraft}}`](https://en.wikiquote.org/wiki/Template:Poli
 Original wording: “Editors may not use an AI tool to produce any part of this content.”
 
 Wikidata: Already linked on [Q119702818](https://www.wikidata.org/wiki/Q119702818); retain the existing sitelink.
+
+➕ [Added to index](https://meta.wikimedia.org/w/index.php?diff=31278082)
 
 ### Commons:Requests for comment/Policy update for AI content
 
@@ -122,6 +136,8 @@ Original wording: “AI-generated works that have been covered by professional p
 [RfC diff](https://commons.wikimedia.org/w/index.php?diff=1295348789&oldid=1294110295) · [Project scope revision](https://commons.wikimedia.org/w/index.php?oldid=1294063480)
 
 Wikidata: No corresponding item confirmed by the page properties and exact-title item search. Leave item selection for review.
+
+⏸️ Hold, [pending confirmation vote](https://commons.wikimedia.org/wiki/Commons:Requests_for_comment/Policy_update_for_AI_content#Confirmation_vote)
 
 ## Local convention, essay and status review
 
@@ -139,6 +155,8 @@ Original wording: “no está bien considerado el uso de inteligencia artificial
 
 Wikidata: No corresponding item confirmed by the page properties and exact-title item search. Leave item selection for review.
 
+➕ [Added to index](https://meta.wikimedia.org/w/index.php?diff=31278082)
+
 ### Wikidata:Large language models
 
 [Wikidata:Large language models](https://www.wikidata.org/wiki/Wikidata:Large_language_models#Best_practices_for_Wikidata_editors) · [revision 2508634919](https://www.wikidata.org/w/index.php?oldid=2508634919#Best_practices_for_Wikidata_editors) · **continuing**.
@@ -150,6 +168,8 @@ Status evidence: [`{{Essay}}`](https://www.wikidata.org/wiki/Template:Essay) and
 Original wording: “Never add unsourced statements from LLMs”.
 
 Wikidata: No corresponding item confirmed by the page properties and exact-title item search. Leave item selection for review.
+
+➕ [Added to index](https://meta.wikimedia.org/w/index.php?diff=31278082)
 
 ### Wiktionary:Artificial intelligence
 
@@ -164,6 +184,8 @@ Original wording: “The use of externally AI-generated content as a source or q
 [unstarted vote](https://en.wiktionary.org/w/index.php?oldid=92155613)
 
 Wikidata: No item confirmed for the AI page. [Q120498218](https://www.wikidata.org/wiki/Q120498218) is the item for its status template, not the page.
+
+➕ [Added to index](https://meta.wikimedia.org/w/index.php?diff=31278082)
 
 ## Already indexed and other review leads
 
